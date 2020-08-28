@@ -1,3 +1,7 @@
 body {
   background-color: azure;
 }
+
+pre {
+  font-size: 1.4em;
+}
